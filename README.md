@@ -1,5 +1,6 @@
 # Lab 8 - Unit & E2E Testing 
-## Chris Kim (No Partners)
+### Chris Kim (No Partners)
+- [Deployment](https://google.com)
 
 1. Where would you fit your automated tests in your Recipe project development pipeline? 
    ```
@@ -17,6 +18,3 @@
 
 4. Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
    > Answer
-    
-
-- [Deployment](https://google.com)
