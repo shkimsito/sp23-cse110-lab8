@@ -1,6 +1,18 @@
 # Lab 8 - Unit & E2E Testing 
 ### Chris Kim (No Partners)
-- [Deployment](https://google.com)
+- [Deployment](https://shkimsito.github.io/sp23-cse110-lab8/)
+- <details>
+  <summary>Test Screenshots</summary>
+
+  ![1](1.png)
+  ![2](./2.png)
+  ![3](./3.png)
+  ![4](./4.png)
+  ![5](./5.png)
+  ![6](./6.png)
+</details>
+
+---
 
 1. Where would you fit your automated tests in your Recipe project development pipeline? 
    ```
